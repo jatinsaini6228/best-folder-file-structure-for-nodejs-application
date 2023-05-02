@@ -1,0 +1,30 @@
+app/
+├── config/
+│   ├── config.js
+│   ├── db.js
+│   └── index.js
+├── controllers/
+│   ├── userController.js
+│   └── index.js
+├── database/
+│   ├── models/
+│   │   ├── User.js
+│   │   └── index.js
+│   ├── repositories/
+│   │   ├── userRepository.js
+│   │   └── index.js
+│   └── index.js
+├── routes/
+│   ├── userRoutes.js
+│   └── index.js
+├── utils/
+│   ├── logger.js
+│   └── index.js
+├── views/
+│   ├── userView.js
+│   └── index.js
+├── services/
+│   ├── userService.js
+│   └── index.js
+├── app.js
+└── index.js
